@@ -5,8 +5,8 @@
 
 ## ✨使用说明
 # 仿真文件环境为 Proteus 8.9_32位 
-Documents（Self） 为仿真文件，适配 Proteus 8.9_32位 和 Project_51 中的项目文件
-Project_51 为C51项目文件，编写语言为C语言
+1. Documents（Self） 为仿真文件，适配 Proteus 8.9_32位 和 Project_51 中的项目文件
+2. Project_51 为C51项目文件，编写语言为C语言
 
 
 
