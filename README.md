@@ -4,8 +4,8 @@
 
 
 ## ✨使用说明
-# Proteus 8.9_32位 为Proteus安装包，适配Documents（Self）内的仿真文件
-# Documents（Self） 为仿真文件，同样适配 Project_51 中的项目文件
+# 仿真文件环境为 Proteus 8.9_32位 
+# Documents（Self） 为仿真文件，适配 Proteus 8.9_32位 和 Project_51 中的项目文件
 # Project_51 为C51项目文件，编写语言为C语言
 
 
